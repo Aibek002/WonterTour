@@ -41,7 +41,7 @@ body{
   margin: 0%;
   font-family: "Quicksand", Arial, sans-serif;
   background: url('https://images.unsplash.com/photo-1528127269322-539801943592?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
-  height: 1000px;
+  height: 100%;
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
@@ -59,10 +59,11 @@ body{
 }
 
 .el{
-  letter-spacing: 2px;
+color: #000000;
+letter-spacing: 2px;
 line-height: 1.7;
 word-spacing: 2px;
-color: #000000;
+
 text-decoration: none solid rgb(68, 68, 68);
 width: 10%;
 margin-top:5%;
@@ -78,7 +79,7 @@ font-size: 24px;
 letter-spacing: 2px;
 color: #000000;
 font-weight: 600;
-line-height: 1.7;
+/* line-height: 0.1; */
 margin-left:2% ;
 margin-top:5%;
 }
@@ -89,21 +90,21 @@ margin-top:5%;
 }
 .p1{
   text-transform: uppercase;
-  color: aliceblue;
-  font-size: 15px;
+  color: rgba(0, 21, 39, 0.537);
+  font-size: 25px;
    /* line-height: 0.1; */
-  font-weight: 300;
+  font-weight: 800;
   margin: 0;
 }
 .p2{
   text-transform:capitalize;
-  color: aliceblue;
-  font-size: 45px;
+  color: rgba(0, 26, 48, 0.696);
+  font-size: 75px;
   word-spacing: 6px;
   font-variant: normal;
   /* line-height: 0.1; */
   margin: 0;
-  font-weight: 300;
+  font-weight: 800;
 }
 
 </style>
