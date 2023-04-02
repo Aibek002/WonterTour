@@ -59,7 +59,7 @@ body{
 }
 
 .el{
-letter-spacing: 2px;
+  letter-spacing: 2px;
 line-height: 1.7;
 word-spacing: 2px;
 color: #000000;
