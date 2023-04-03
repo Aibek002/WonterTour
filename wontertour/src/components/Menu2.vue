@@ -36,7 +36,8 @@ We love to tell our successful far far away, behind the word mountains, far from
             
             <p class="priceText">CHINA BAKOO <br>$4456</p><p class="priceText2">China Bakoo</p><img src="https://images.unsplash.com/photo-1661588157720-842bff7c66c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60" alt="" class="priceImg"></div>
     </div>
-<div class="flex5">Aibek</div>
+<div class="flex5">Author: Hege Refsnes<br>
+  <a href="mailto:hege@example.com">hege@example.com</a></div>
 </template>
 
 <script>
@@ -75,6 +76,8 @@ We love to tell our successful far far away, behind the word mountains, far from
 }
 .flex5{
     background-color: aliceblue;
+    text-align: center;
+    height: 500px;
 }
 .priceImg{
 
