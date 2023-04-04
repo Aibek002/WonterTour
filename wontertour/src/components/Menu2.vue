@@ -77,7 +77,6 @@ We love to tell our successful far far away, behind the word mountains, far from
 .flex5{
     background-color: aliceblue;
     text-align: center;
-    height: 500px;
 }
 .priceImg{
 
